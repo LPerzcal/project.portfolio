@@ -18,16 +18,13 @@
   * Clean, transform, and structure the data
   * Verify data quality and consistency
 
-### **2. Cohort Analysis:**
- Utilize Databricks to perform cohort analysis, grouping customers based on common characteristics or time periods. Calculate retention rates for each cohort 
+### **2. Cohort Analysis:** Utilize Databricks to perform cohort analysis, grouping customers based on common characteristics or time periods. Calculate retention rates for each cohort 
  to identify trends over time.
 
-### **3. Visualization and Dashboard Creation:**
- Create interactive visualizations and dashboards in Tableau to present retention metrics, cohort performance, and potential churn factors. The visualizations 
+### **3. Visualization and Dashboard Creation:** Create interactive visualizations and dashboards in Tableau to present retention metrics, cohort performance, and potential churn factors. The visualizations 
  will make complex data insights more accessible to stakeholders.
 
-### **4. Insight Generation:**
- Analyze the visualized data to extract meaningful insights about customer retention trends, including identifying periods of high churn and potential influencing 
+### **4. Insight Generation:** Analyze the visualized data to extract meaningful insights about customer retention trends, including identifying periods of high churn and potential influencing 
  factors.
 
 ### **5. Collaboration:**
@@ -38,7 +35,7 @@ improving customer retention.
 Based on insights derived from the analysis, develop actionable recommendations to enhance customer retention. These recommendations will guide the formulation 
 of strategies to reduce churn rates.
 
-### **7.Implementation and Monitoring:**
+### **7. Implementation and Monitoring:**
 Work with cross-functional teams to implement retention-improvement strategies. Set up monitoring mechanisms to track the impact of these strategies on customer retention.
 
 
