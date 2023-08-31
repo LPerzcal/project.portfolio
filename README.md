@@ -11,4 +11,22 @@
   including data engineers, product managers and account managers, and will utilize tools like SQL, Databricks, and Tableau as visualization tool.
 
 ### **1. Data Gathering and Preparation:** 
-  Collaborate with data engineers to collect relevant customer data from databases using SQL. Clean, transform, and preprocess the data to ensure accuracy and consistency.
+  * Define project scope, objectives, and deliverables
+  * Identify stakeholders: Data Engineers, Product Managers, Account Manager
+  * Set up communication channels (meetings, emails, collaboration tools)
+  * Collaborate with Data Engineers to gather relevant customer data using SQL
+  * Clean, transform, and structure the data
+  * Verify data quality and consistency
+
+### **2. Cohort Analysis:**
+ Utilize Databricks to perform cohort analysis, grouping customers based on common characteristics or time periods. Calculate retention rates for each cohort 
+ to identify trends over time.
+
+ ### **3. Visualization and Dashboard Creation:**
+ Create interactive visualizations and dashboards in Tableau to present retention metrics, cohort performance, and potential churn factors. The visualizations 
+ will make complex data insights more accessible to stakeholders
+
+ ### **4. Insight Generation:**
+ Analyze the visualized data to extract meaningful insights about customer retention trends, including identifying periods of high churn and potential influencing 
+ factors.
+    
