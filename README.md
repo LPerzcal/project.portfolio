@@ -1,6 +1,7 @@
 
 # <font style="color : darkorange">Analysis of Customer Retention</font>
-### **<font style="color : darkgrey">Duration: 10 weeks</font>**
+### <font style="color : darkgrey">**Duration: 10 weeks**</font>
+
 
   
 ### **Project Overview**:
