@@ -1,7 +1,6 @@
 # Luis Perez
-<img align ="right" width="150" height="150" src="https://github.com/LPerzcal/project.portfolio/tree/89addd3233ac7e7ff67937726f8467001fc68613/img">
-
 Senior Data Analyst
+<img align ="right" width="150" height="150" src="https://github.com/LPerzcal/project.portfolio/tree/89addd3233ac7e7ff67937726f8467001fc68613/img">
 
 
 
