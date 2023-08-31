@@ -2,7 +2,7 @@
 # <font style="color : darkblue">Analysis of Customer Retention</font> <br>
 ### <font style="color : darkgrey">Duration: 10 weeks</font> <br>
 **Stakeholders:** Data Engineers, Product Manager, Account Managers, Data Analyst, other relevant departents. <br>
-:white_check_mark: SQL | :white_check_mark: Databricks | :white_check_mark: Tableau | :white_check_mark: JIRA | :white_check_mark: Microsoft Teams
+✅ SQL | :white_check_mark: Databricks | :white_check_mark: Tableau | :white_check_mark: JIRA | :white_check_mark: Microsoft Teams
 
 
   
