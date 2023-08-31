@@ -1,9 +1,10 @@
 
 
 # Analysis of Customer Retention 
+#<code style="color:blue">Analysis of Customer Retention</code> 
 ### Duration: 10 weeks
   
-## **Project Overview**:
+### **Project Overview**:
   The "Analysis of Customer Retention" project is aimed at understanding and improving customer retention rates for a business. 
   As customer retention is a critical factor in sustaining growth and profitability, this project focuses on leveraging data-driven insights 
   to identify trends, patterns, and potential drivers of customer churn. The analysis will be conducted in collaboration with cross-functional teams, 
