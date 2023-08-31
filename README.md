@@ -1,5 +1,5 @@
 
-# <font style="color : darkorange">Analysis of Customer Retention</font> <br>
+# <font style="color : darkorange">Project 1: Analysis of Customer Retention</font> <br>
 ### <font style="color : darkgrey">Duration: 10 weeks</font> <br>
 **Stakeholders:** Data Engineers, Product Manager, Account Managers, Data Analyst, other relevant departents. <br>
 ✅ SQL  ✅ Databricks  ✅ Tableau  ✅ JIRA  ✅ Microsoft Teams
