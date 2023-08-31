@@ -1,5 +1,5 @@
 
-# <font style="color : blue">Analysis of Customer Retention</font>
+# <font style="color : darkorange">Analysis of Customer Retention</font>
 
 ### Duration: 10 weeks
   
