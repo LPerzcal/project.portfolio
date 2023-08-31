@@ -18,12 +18,10 @@
   * Clean, transform, and structure the data
   * Verify data quality and consistency
 
-### **2. Cohort Analysis:** 
-Utilize Databricks to perform cohort analysis, grouping customers based on common characteristics or time periods. Calculate retention rates for each cohort 
+**2. Cohort Analysis:** Utilize Databricks to perform cohort analysis, grouping customers based on common characteristics or time periods. Calculate retention rates for each cohort 
 to identify trends over time.
 
-### **3. Visualization and Dashboard Creation:** 
-Create interactive visualizations and dashboards in Tableau to present retention metrics, cohort performance, and potential churn factors. The visualizations 
+**3. Visualization and Dashboard Creation:** Create interactive visualizations and dashboards in Tableau to present retention metrics, cohort performance, and potential churn factors. The visualizations 
 will make complex data insights more accessible to stakeholders.
 
 ### **4. Insight Generation:** 
