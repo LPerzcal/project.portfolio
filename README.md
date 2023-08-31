@@ -2,7 +2,7 @@
 # <font style="color : darkblue">Analysis of Customer Retention</font> <br>
 ### <font style="color : darkgrey">Duration: 10 weeks</font> <br>
 **Stakeholders:** Data Engineers, Product Manager, Account Managers, Data Analyst, other relevant departents. <br>
-<font style="color : darkgreen">[x]</font> SQL
+<font style="color : darkgreen">[x] SQL</font>
 
 
   
