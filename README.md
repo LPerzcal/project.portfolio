@@ -1,6 +1,8 @@
 
 # <font style="color : darkblue">Analysis of Customer Retention</font> <br>
-### <font style="color : darkgrey">Duration: 10 weeks</font>
+### <font style="color : darkgrey">Duration: 10 weeks</font> <br>
+**Stakeholders:** Data Engineers, Product Manager, Account Managers, Data Analyst, other relevant departents. <br>
+<font style="color : darkgreen">[x]</font> SQL
 
 
   
@@ -8,14 +10,13 @@
   The "Analysis of Customer Retention" project is aimed at understanding and improving customer retention rates for a business. 
   As customer retention is a critical factor in sustaining growth and profitability, this project focuses on leveraging data-driven insights 
   to identify trends, patterns, and potential drivers of customer churn. The analysis will be conducted in collaboration with cross-functional teams, 
-  including data engineers, product managers and account managers, and will utilize tools like SQL, Databricks, and Tableau as visualization tool.
+  including data engineers, product managers and account managers, and will utilize tools like **SQL**, **Databricks**, and **Tableau** as visualization tool.
 
 **1. Data Gathering and Preparation:** 
 Define project scope, objectives, and deliverables. Identify stakeholders. Set up communication channels (meetings, emails, collaboration tools). 
 Collaborate with data engineers to collect relevant customer data from databases using SQL. Clean, transform, and preprocess the data to ensure accuracy 
 and consistency.
 
-**<font style="color : darkblack">Cohort Analysis:</font>**
 
 **2. Cohort Analysis:** Utilize Databricks to perform cohort analysis, grouping customers based on common characteristics or time periods. Calculate retention rates for each cohort 
 to identify trends over time.
