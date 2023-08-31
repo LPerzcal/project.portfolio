@@ -1,6 +1,7 @@
 
 # <font style="color : darkorange">Analysis of Customer Retention</font>
-### <font style="color : darkgrey">Duration: 10 weeks</font>
+### **<font style="color : darkgrey">Duration: 10 weeks</font>**
+
   
 ### **Project Overview**:
   The "Analysis of Customer Retention" project is aimed at understanding and improving customer retention rates for a business. 
